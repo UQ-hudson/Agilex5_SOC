@@ -1,0 +1,3 @@
+GSRD GHRD build 진행간 명령어
+make sof -> sof 파일 생성
+make debug_sof -> FSBL이 포함된 hps_debug.sof 파일 생성
